@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Mon Server RP",
+    "slug": "rp-1192",
+    "gameVersion": "1.19.2",
+    "loader": {
+      "type": "forge",
+      "version": "43.5.0"
+    },
+    "server": {
+      "ip": "86.207.93.154",
+      "port": 25565
+    },
+    "client": {
+      "mods": []
+    }
+  }
+]
