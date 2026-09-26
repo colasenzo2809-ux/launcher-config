@@ -4,6 +4,7 @@
     "name": "Alpex",
     "type": "release",
     "version": "1.19.2",
+    "gameVersion": "1.19.2",
     "loader": {
       "type": "forge",
       "version": "43.5.0"
