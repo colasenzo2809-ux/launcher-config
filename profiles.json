@@ -1,7 +1,7 @@
 [
   {
-    "name": "Mon Server RP",
-    "slug": "rp-1192",
+    "name": "Alpex RP",
+    "slug": "zoenco28_alpex",
     "gameVersion": "1.19.2",
     "loader": {
       "type": "forge",
