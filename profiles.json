@@ -1,12 +1,11 @@
 [
   {
-    "id": "zoenco28_alpex",
+    "id": "alpex",
     "name": "Alpex",
-    "type": "release",
-    "gameVersion": "1.19.2",
+    "version": "1.19.2",
     "loader": {
       "type": "forge",
-      "build": "43.5.0"
+      "version": "43.5.0"
     },
     "server": {
       "ip": "86.207.93.154",
