@@ -1,27 +1,16 @@
-[
-  {
-    "id": "alpex",
-    "name": "Alpex",
-    "type": "release",
-    "version": "1.19.2",
-    "gameVersion": "1.19.2",
-    "loader": {
-      "type": "forge",
-      "version": "43.5.0"
-    },
-    "server": {
-      "ip": "localhost",
-      "port": 25565
-    },
-    "modules": [
-      {
-        "id": "mods",
-        "name": "Mods Alpex",
-        "type": "zip",
-        "url": "https://github.com/colasenzo2809-ux/launcher-config/releases/download/V1.0/mods.zip",
-        "path": ""
-      }
-    ]
+{
+  "id": "alpex",
+  "name": "Alpex",
+  "type": "release",
+  "version": "1.19.2",
+  "gameVersion": "1.19.2",
+  "loader": {
+    "type": "forge",
+    "version": "43.5.0"
+  },
+  "server": {
+    "ip": "localhost",
+    "port": 25565
   }
-]
+}
 
