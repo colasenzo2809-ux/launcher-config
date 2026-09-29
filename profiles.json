@@ -9,8 +9,12 @@
     "version": "43.5.0"
   },
   "server": {
-    "ip": "localhost",
+    "ip": "86.207.93.154",
     "port": 25565
+  },
+  "modpack": {
+    "url": "https://github.com/colasenzo2809-ux/launcher-config/releases/download/V1.0/Alpex-Mods-Complet.zip",
+    "version": "1.0"
   }
 }
 
